@@ -1,0 +1,41 @@
+/* Page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #f4f6f9;
+}
+
+/* Headings */
+h1, h2 {
+    color: #212121;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+}
+
+/* Cells */
+th, td {
+    border: 1px solid #999999;
+    padding: 8px 12px;
+    text-align: center;
+}
+
+/* Header cells */
+th {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+/* Button */
+button {
+    padding: 8px 16px;
+    cursor: pointer;
+    background-color: #57595c;
+    color: #ffffff;
+    border-radius: 4px;
+}
